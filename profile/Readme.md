@@ -1,46 +1,58 @@
-## Welcome to LKPR Global LLP
-
 <div align="center">
-   <img src="https://lkprglobal.com/new/one.png" width="150px" alt="Project Logo" />
-    <h1>We build the Future Technolgies for Young Generations.</h1>
+
+<!-- <img src="https://kct.ac.in/wp-content/uploads/2020/08/industrial-ri.svg" alt="KCIRI-KCT Logo" width="180"/>-->
+
+
+<img width="183" height="65" alt="logo_white_bg" src="https://github.com/user-attachments/assets/f54c9ce9-8b9a-4c51-a63d-cfbd5b56c3c2" />
+
+
+# Kumaraguru Centre for Industrial Research and Innovation
+
+### Research Institution & Development Center
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KCIRI--KCT-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/kcirikct)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/orgs/KCIRI-KCT/repositories)
+
 </div>
 
+---
 
-## Description
+## About
 
- Our comprehensive suite of services encompasses every aspect of public relations, from crafting captivating press releases to orchestrating high-impact product launches.
+**KCIRI (Kumaraguru Centre for Industrial Research and Innovation)** is a research and development institution focused on translating applied research into industrial-scale solutions. Our work spans engineering R&D, technology transfer, and collaborative innovation with industry partners.
 
-We leverage the latest industry insights and cutting-edge technologies to develop bespoke solutions that resonate with your target audience and deliver measurable results.
+This organization hosts the software, tools, and research artifacts developed as part of our ongoing projects.
 
-But we're more than just a PR agency – we're your trusted partner in achieving your business objectives. Our experienced consultants work closely with you to understand your goals, challenges, and opportunities, offering strategic guidance and actionable insights every step of the way. 
+---
 
-At LKPR Global, we believe that success is built on collaboration, integrity, and relentless innovation. Join us on a journey to unlock the full potential of your brand and leave a lasting impression on the world.
+## What We Do
 
-Discover the power of effective PR with LKPR Global – where your success is our passion 
+- 🔬 **Applied Research** — Solving real-world industrial problems through engineering and technology.
+- ⚙️ **Product & Prototype Development** — Building proof-of-concepts and deployable systems for industry partners.
+- 🤝 **Industry Collaboration** — Partnering with organizations on sponsored and consultancy R&D projects.
+- 📊 **Data & Systems Engineering** — Developing software, automation, and analytics pipelines to support research outcomes.
 
-## Related Projects
+---
 
-Here we have our build webpages:
+## Repositories
 
-[Tamilarasu Magazine](https://tamilarasu.lkprglobal.com/)
+Explore our full list of active and archived projects here:
 
+➡️ **[KCIRI-KCT Repositories](https://github.com/orgs/KCIRI-KCT/repositories)**
 
-## Contributors
+---
 
-- **Gowtham Muthusamy**: Admin / Development Team Head
+## Connect With Us
 
-## Badges
+| Platform | Link |
+|----------|------|
+| 🔗 LinkedIn | [Kumaraguru Centre for Industrial Research and Innovation](https://in.linkedin.com/company/kcirikct) |
+| 🏫 Institution | [Kumaraguru College of Technology](https://kct.ac.in) |
 
-[![SIT License](https://img.shields.io/badge/License-lkpr-green.svg)](https://lkprglobal.com/)
-[![LKPR Terms](https://img.shields.io/badge/Terms-lkpr%20Terms-red.svg)](https://lkprglobal.com/Privacypolicy.html)
-[![LKPR Policy](https://img.shields.io/badge/Policy-lkpr%20Policy-orange.svg)](https://lkprglobal.com/Privacypolicy.html)
+---
 
-## Contact
+<div align="center">
 
-For any inquiries or feedback, reach out to us:
+*Advancing industrial research through innovation and collaboration.*
 
-- **Email**: info@lkprglobal.com
-- **GitHub Issues**: gowtham@lkprglobal.com /  [![LKPR Contact](https://img.shields.io/badge/Contact-lkpr%20global-blue.svg)](https://lkprglobal.com/contact.html)
-- **Social Media**: [![LKPR Social](https://img.shields.io/badge/Policy-lkpr%20Instagram-purple.svg)](https://www.instagram.com/invites/contact/?i=dtxkd3coux36&utm_content=et9vzk4)
-
-Let's Build the Future Tech's
+</div>
