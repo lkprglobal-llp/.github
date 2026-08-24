@@ -3,7 +3,7 @@
 <!-- <img src="https://kct.ac.in/wp-content/uploads/2020/08/industrial-ri.svg" alt="KCIRI-KCT Logo" width="180"/>-->
 
 
-<img width="183" height="65" alt="logo_white_bg" src="https://github.com/user-attachments/assets/f54c9ce9-8b9a-4c51-a63d-cfbd5b56c3c2" />
+<img width="3508" height="1000" alt="KCIRI-Landscape" src="https://github.com/user-attachments/assets/04bea0e3-d939-4d9b-8260-273be9d5b03c" />
 
 
 # Kumaraguru Centre for Industrial Research and Innovation
